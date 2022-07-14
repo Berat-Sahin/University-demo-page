@@ -27,11 +27,6 @@ function hideMenu() {
 }
 
 
-gsap.from(".texts", .8, { y: '-100%' })
-
-gsap.from(".text-box", .8, { y: '-100%' })
-
-gsap.from(".main-nav", .8, { y: '-100%' })
 
 function scrollPhotoRight() {
     if (index == 0) {

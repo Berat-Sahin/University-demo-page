@@ -254,7 +254,7 @@ nav .fa{
     cursor: pointer;
     border-radius: 5px;
     margin: 10px;
-    background-color: rgba(255, 255, 255, 0);
+    background-color: rgba(255, 255, 255, 0.199);
     display: flex;
     transition: 0.25s;
 }
@@ -304,7 +304,7 @@ nav .fa{
         top:0;
         right: -200px;
         text-align: left;
-        z-index: 2;
+        z-index: 3;
         transition: 1s;
     }   
 
