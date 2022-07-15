@@ -237,6 +237,7 @@ nav .fa{
 
 .images{
     display: flex;
+    
 }
 
 
@@ -387,6 +388,10 @@ nav .fa{
     background-color: rgba(255, 255, 255, 0);
     display: flex;
     transition: 0.25s;
+}
+
+.images{
+    flex-grow: 1;
 }
 
 
